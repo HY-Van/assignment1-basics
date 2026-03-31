@@ -1,4 +1,4 @@
-## Part A Byte-Pair Encoding (BPE) Tokenizer 整体思路
+# Part A Byte-Pair Encoding (BPE) Tokenizer 整体思路
 
 [`tokenizer.py`](/2022533145/CS190/assignment1-basics/cs336_basics/tokenizer.py#L1) 其实在做两件事：
 
